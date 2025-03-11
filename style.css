@@ -159,3 +159,14 @@ textarea {
     resize: vertical;
     height: 150px;
 }
+
+.text-input{
+    height: 200px;
+}
+
+input[type="textarea"]::placeholder {
+             
+
+    text-align:top;
+    
+}
