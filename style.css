@@ -71,7 +71,7 @@ span {
     line-height: 20px;
 }
 h1 {
-    font-size: 81px;
+    font-size: 84px;
 }
 h2 {
     font-size: 31px;
@@ -81,6 +81,8 @@ p {
     font-size: 25px;
     line-height: 30px;
 }
+
+
 
 .icons {
     display: flex;
@@ -108,6 +110,18 @@ p {
     display: flex;
     gap: 10px;
 }
+
+textarea {
+
+    background-color: aliceblue;
+}
+
+textarea {
+    resize: vertical;
+    height: 150px;
+}
+
+
 
 .skill-list {
     background-color: beige;
@@ -155,10 +169,7 @@ input {
     height: 40px;
 }
 
-textarea {
-    resize: vertical;
-    height: 150px;
-}
+
 
 
 .text-input{
