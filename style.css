@@ -8,11 +8,11 @@ nav {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    background-color: #0AEAFE;
-    color: #23232D;
+    background-color: #89b1ed;
+    color: #41414d;
     padding: 3%;
     margin: 0;
-
+    padding: 12px;
 }
 
 ul {
@@ -160,6 +160,17 @@ textarea {
     height: 150px;
 }
 
+
+.text-input{
+    height: 200px;
+}
+
+input[type="textarea"]::placeholder {
+             
+
+    text-align:top;
+    
+}
 
 /* Footer Styling */
 .footer {
